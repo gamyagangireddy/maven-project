@@ -1,0 +1,1 @@
+insert into TBL_EMPLOYEES VALUES(gamya,associate);
